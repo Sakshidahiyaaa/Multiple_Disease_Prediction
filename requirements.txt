@@ -1,4 +1,6 @@
-numpy
+streamlit
+streamlit-option-menu
 pandas
+numpy
 scikit-learn
-flask
+joblib
